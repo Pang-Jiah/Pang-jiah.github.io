@@ -1,0 +1,17 @@
+# Site settings — fill these in
+title: Jiahuan Pang                   # site title
+email: pangjiahuan@sjtu.edu.cn      # email
+description: Personal homepage and blog
+
+# Deployment
+# Leave empty for a user site (https://<username>.github.io);
+# set to "/<repo>" for a project site (https://<username>.github.io/<repo>).
+baseurl: ""
+url: ""
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
