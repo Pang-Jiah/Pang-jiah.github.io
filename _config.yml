@@ -1,15 +1,17 @@
-# Site settings — fill these in
+# Site settings
 title: Jiahuan Pang                   # site title
-email: pangjiahuan@sjtu.edu.cn      # email
-description: Personal homepage and blog
+email: pangjiahuan@sjtu.edu.cn        # email
+description: Homepage of Jiahuan Pang
+url: "https://pang-jiah.github.io"    # used for sitemap/robots absolute URLs
 
 # Deployment
-# Leave empty for a user site (https://<username>.github.io);
-# set to "/<repo>" for a project site (https://<username>.github.io/<repo>).
+# User site: the repo is named pang-jiah.github.io, so the site lives at the
+# domain root and baseurl stays empty.
 baseurl: ""
-url: ""
 
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
 
 exclude:
   - Gemfile

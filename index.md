@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Jiahuan Pang — Homepage
 hide_nav: true
 ---
 <!-- TODO: Fill in your name below -->
@@ -47,3 +47,19 @@ hide_nav: true
 ## Blog
 
 See the [blog page](/blog/) for recent posts.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Jiahuan Pang",
+  "alternateName": "庞嘉欢",
+  "email": "mailto:pangjiahuan@sjtu.edu.cn",
+  "jobTitle": "Ph.D. Candidate",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Shanghai Jiao Tong University"
+  },
+  "url": "https://pang-jiah.github.io/"
+}
+</script>

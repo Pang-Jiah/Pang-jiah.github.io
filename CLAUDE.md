@@ -48,7 +48,13 @@ inspecting the rendered pages.
 
 ## Architecture (intended Jekyll layout)
 
-- `_config.yml` — site-wide config (title, email, baseurl, etc.)
+- `_config.yml` — site-wide config (title, email, baseurl, etc.). The repo
+  was renamed to `pang-jiah.github.io`, so it is a user site at
+  https://pang-jiah.github.io/ and `baseurl` stays empty. `url` is set for
+  sitemap/robots absolute URLs. SEO: `robots.txt` + `sitemap.xml` (generated
+  by the `jekyll-sitemap` plugin); homepage title is "Jiahuan Pang — Homepage"
+  via index.md front matter; JSON-LD Person schema lives at the bottom of
+  index.md.
 - `index.md` / `index.html` — homepage with the resume sections
 - `_layouts/` — page templates (e.g. `default`, `post`)
 - `_includes/` — reusable partials (header/footer)
