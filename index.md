@@ -11,13 +11,13 @@ hide_nav: true
 
 <!-- TODO: Add a one-line introduction here -->
 
-> I am a Ph.D. candidate studying **collective systems** and **working toward building swarm robotic systems**. This site contains my academic activities and my thoughts on topics that interest me.
+> I am a Ph.D. candidate studying collective systems and working toward building swarm robotic systems. This site contains my academic activities and my thoughts on topics that interest me.
 
 ## Education
 
 <!-- TODO: Fill in education, most recent first -->
 
-- **2023 – present** — **Ph.D. Candidate**, Mechanical Engineering, Shanghai JiaoTong University
+- **2023 – present** — **Ph.D. Candidate**, Mechanical Engineering, Shanghai Jiao Tong University
 - **2019 – 2023** — **B.Eng.**, Robotics Engineering, Harbin Institute of Technology (Weihai)
 
 ## Research Interests
